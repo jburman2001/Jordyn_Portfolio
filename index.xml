@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science Portfolio on Jordyn Burman</title>
+    <link>https://jburman2001.github.io/Jordyn_Portfolio/</link>
+    <description>Recent content in Computer Science Portfolio on Jordyn Burman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 May 2020 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://jburman2001.github.io/Jordyn_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 4 - Perse</title>
+      <link>https://jburman2001.github.io/Jordyn_Portfolio/post/project-4/</link>
+      <pubDate>Thu, 28 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jburman2001.github.io/Jordyn_Portfolio/post/project-4/</guid>
+      <description> CURRENTLY IN PROGRESS, WILL DISPLAY CODE IN GITHUB ONCE COMPLETE Using Java and JDABuilder to develop a bot (named Perse - pronounced like Percy) that performs administrative tasks for staff members and provide an interactive experience for users in Discord servers. Active Commands: ping, 8ball, roll any sided dice, kick, mute In progress: ban, moderation logs, role assignment    </description>
+    </item>
+    
+    <item>
+      <title>Project 3 - &#39;Project: Brink&#39; Indie Game</title>
+      <link>https://jburman2001.github.io/Jordyn_Portfolio/post/project-3/</link>
+      <pubDate>Mon, 06 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jburman2001.github.io/Jordyn_Portfolio/post/project-3/</guid>
+      <description>Individually designed and developed an indie game idea, presented proposal to the instructor, and received approval to venture forth and develop a game Created a 3-D first person survival horror game using Unity Technologies and Visual Studio C#    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 2 - Webscraping with BeautifulSoup4</title>
+      <link>https://jburman2001.github.io/Jordyn_Portfolio/post/project-2/</link>
+      <pubDate>Tue, 17 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jburman2001.github.io/Jordyn_Portfolio/post/project-2/</guid>
+      <description>Utilized BeautifulSoup4 package and Pycharm to webscrape a shopping website&amp;rsquo;s data on Macbook products Converted the data collected into a .csv file for readability Determined which sale is best to purchase based on price listings, specifications, and ratings collected using Microsoft Excel 2019    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 1 - Introductory Machine Learning with R</title>
+      <link>https://jburman2001.github.io/Jordyn_Portfolio/post/project-1/</link>
+      <pubDate>Sat, 22 Jun 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://jburman2001.github.io/Jordyn_Portfolio/post/project-1/</guid>
+      <description>Utilized the R programming language and the random forest regression algorithm Created a model that predicts which passengers survived the sinking of the Titanic Cleaned and joined data sets to improve the accuracy of the predictive model from 75% to nearly 80%    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jburman2001.github.io/Jordyn_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jburman2001.github.io/Jordyn_Portfolio/contact/</guid>
+      <description>Feel free to reach out to me at the following:
+   Method Info     Phone: (404) 984-7809   Email (Preferred): jburman2001@gmail.com    Check out more of my work on the following social media platforms!
+   Platform URL     LinkedIn: https://www.linkedin.com/in/jordyn-burman-3251261a8/   GitHub: https://github.com/jburman2001    You may also find me through Kennesaw State University&amp;rsquo;s page on Handshake!</description>
+    </item>
+    
+  </channel>
+</rss>
